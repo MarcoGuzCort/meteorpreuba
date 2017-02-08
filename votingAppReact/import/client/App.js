@@ -32,6 +32,8 @@ class App extends Component {
     //esto calpura y me lo muestra cpor consola
     //lo usare para guardar en MongoDB
 
+    // hola
+
 
 
 
